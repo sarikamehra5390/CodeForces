@@ -10,7 +10,7 @@ public class Main {
 
         while (t-- > 0) {
             
-            int n = sc.nextInt();
+          
 
             String s = sc.next();
             int count = 0;
