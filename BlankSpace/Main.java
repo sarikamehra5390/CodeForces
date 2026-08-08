@@ -9,6 +9,7 @@ public class Main {
 
         while(t-- > 0){
             int n = sc.nextInt();
+
             int countZero = 0;
             int count = 0;
 
@@ -17,13 +18,10 @@ public class Main {
 
                 if(x == 0){
                    countZero++;
-                }else if(x == 1 && countZero > 0){
+                   count = Math.max(count, countZero);
+                }else {
                     countZero = 0 ;
-                }else{
-                    continue;
                 }
-
-               count = Math.max(count, countZero);
             }
 
             System.out.println(count);
