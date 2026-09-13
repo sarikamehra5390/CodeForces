@@ -1,0 +1,1 @@
+{"name":"Local: Main","url":"c:\\Users\\mehra\\Desktop\\CodeForces\\MinMaxGame\\Main.java","tests":[{"id":1789280116742,"input":"3\n5\n1 0 1 0 1\n3\n0 0 1\n4\n1 1 0 0\n","output":"Bessie\nElsie\nBessie\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\mehra\\Desktop\\CodeForces\\MinMaxGame\\Main.java","group":"local","local":true}
