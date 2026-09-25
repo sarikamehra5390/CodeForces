@@ -18,6 +18,7 @@ public  class Main {
 
             System.out.println(n - min);
         }
+        sc.close();
     }
 
 }
